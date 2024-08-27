@@ -1,0 +1,24 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>keywords</title>
+</head>
+<body>
+    키워드 추출 완료
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>keywords</title>
+</head>
+<body>
+<form action="{% url 'keywords' %}" method="POST">
+    {% csrf_token %}
+
+</form>
+
+</body>
+</html>

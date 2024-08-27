@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>crawling</title>
+</head>
+<body>
+    <form action="{% url 'crawling' %}" method="POST">
+        {% csrf_token %}
+        <!-- <label>
+            <input type="checkbox" name="selected" />
+            {{keyword.keyword1}}
+        </label>
+        <label>
+            <input type="checkbox" name="selected" />
+            {{keyword.keyword2}}
+        </label>
+        <label>
+            <input type="checkbox" name="selected" />
+            {{keyword.keyword3}}
+        </label>
+        <label>
+            <input type="checkbox" name="selected" />
+            {{keyword.keyword4}}
+        </label>
+        <label>
+            <input type="checkbox" name="selected" />
+            {{keyword.keyword5}}
+        </label> -->
+        <input type="text" name ='search' id="search">
+        <input type="submit" value="제출">
+        <h1>Keywords</h1>
+        <div id="keywords">
+            <p>Keyword 1: {{ keyword1 }}</p>
+            <p>Keyword 2: {{ keyword2 }}</p>
+            <p>Keyword 3: {{ keyword3 }}</p>
+            <p>Keyword 4: {{ keyword4 }}</p>
+            <p>Keyword 5: {{ keyword5 }}</p>
+        </div>
+    </form>
+
+
+</body>
+</html>

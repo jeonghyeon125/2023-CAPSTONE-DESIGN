@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>similarity</title>
+</head>
+<body>
+<form action="{% url 'similarity' %}" method="POST">
+    {% csrf_token %}
+    유사도 측정
+</form>
+
+</body>
+</html>
