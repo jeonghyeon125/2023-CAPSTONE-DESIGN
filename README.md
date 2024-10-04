@@ -50,8 +50,6 @@
 
 ## 🖥️ Frontend
 
-### 1. WireFrame
-
 <br>
 
 ## 💾 Project Implementation
