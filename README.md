@@ -1,6 +1,9 @@
 # 2023-CAPSTON-DESIGN
 > Identification of Internet news reliability using TF-IDF and RoBERTa models <br>
-> TF-IDF와 RoBERTa 모델을 이용한 인터넷 뉴스 신뢰도 판별
+> TF-IDF와 RoBERTa 모델을 이용한 인터넷 뉴스 신뢰도 판별 <br>
+
+> 한국정보처리학회 ASK 2023 춘계 학술대회 논문 게재<br>
+> 홍익대학교 20회 소프트웨어융합학과 학술제 우수상
 
 <br>
 
@@ -38,13 +41,7 @@
 
 <br>
 
-### 2. Requirements Specification
-
-[요구사항 명세서]
-
-<br>
-
-### 3. System Architecture
+### 2. System Architecture
 
 <br>
 
@@ -76,7 +73,7 @@
 
 ## 👨‍👩‍👧‍👦 Member
 
-| [김나현](https://github.com/NAHYEON0713) | [김정현](https://github.com/hoyeon96) | [손채영](https://github.com/limjihoon99) |
+| [김나현](https://github.com/NAHYEON0713) | [김정현](https://github.com/jeonghyeon125) | [손채영](https://github.com/caheyoun9) |
 | ------------------------------------ | ---------------------------------------- | ------------------------------------- |
 | Leader, Developer                    | Developer                                | Developer                             |
 
