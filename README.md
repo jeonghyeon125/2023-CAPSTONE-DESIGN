@@ -91,9 +91,11 @@
 <br>
 
 ## 프로젝트 요약
+![2023_capstone-design_summary](https://github.com/user-attachments/assets/17d9307d-e0d8-4ebf-a373-0530da8da17e)
+<br>
 
 | 발표자료 |
 | ------ |
-|[유동영교수님_4조.pdf](https://github.com/user-attachments/files/17448283/_4.pdf)|
+|https://drive.google.com/file/d/19fwdIyjsGSP5xRfnqJFEjb1UhbyqqCH6/view?usp=sharing|
 
 <br>
