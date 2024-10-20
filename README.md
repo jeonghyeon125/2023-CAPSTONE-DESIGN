@@ -25,67 +25,10 @@
 <img alt="CSS" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </p>
-<p><strong> DevTools <br></strong>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+<p><strong> De트 요약
 
-<p><strong> VCS <br></strong>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  
-<br>
-
-## 🗂️ Project Planning
-
-### 1. Project Proposal
-
-[프로젝트 기획서]
-
-<br>
-
-### 2. System Architecture
-
-<br>
-
-## 🛠️ Backend
-
-### 1. Relation Schema
-
-<br>
-
-### 2. E-R Diagram
-
-<br>
-
-## 🖥️ Frontend
-
-<br>
-
-## 💾 Project Implementation
-
-<br>
-
-## 📂 Directory Structure
-
-<br>
-
-## 📆 WBS
-
-<br>
-
-## 👨‍👩‍👧‍👦 Member
-
-| [김나현](https://github.com/NAHYEON0713) | [김정현](https://github.com/jeonghyeon125) | [손채영](https://github.com/caheyoun9) |
-| ------------------------------------ | ---------------------------------------- | ------------------------------------- |
-| Leader, Developer                    | Developer                                | Developer                             |
-
-<br>
-
-## 📚 Memoir
-
-| &nbsp;&nbsp;팀&nbsp;원&nbsp;&nbsp;&nbsp; | 회고록 |
-| :--------------------------------------: | ------ |
-|                  김나현                  | &nbsp; |
-|                  김정현                  | &nbsp; |
-|                  손채영                  | &nbsp; |
+| 발표자료 |
+| ------ |
+|[유동영교수님_4조.pdf](https://github.com/user-attachments/files/17448283/_4.pdf)|
 
 <br>
