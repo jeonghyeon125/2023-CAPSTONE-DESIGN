@@ -65,6 +65,9 @@
 <br>
 
 ### 2. System Architecture
+<br>
+
+![architecture-removebg-preview](https://github.com/user-attachments/assets/f072548b-ccef-4f15-ad3c-9056f3d444a0)
 
 <br>
 
