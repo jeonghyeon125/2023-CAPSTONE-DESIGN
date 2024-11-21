@@ -4,7 +4,7 @@
 > Identification of Internet news reliability using TF-IDF and RoBERTa models <br>
 > TF-IDF와 RoBERTa 모델을 이용한 인터넷 뉴스 신뢰도 판별 <br>
 
-> 한국정보처리학회 ASK 2023 춘계 학술대회 논문 게재<br>
+> 한국정보처리학회 ASK 2023 춘계 학술대회 논문 게재 [학술대회 논문 바로가기](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=ee80b5202c9e15e747de9c1710b0298d&keyword=) <br>
 > 홍익대학교 20회 소프트웨어융합학과 학술제 우수상 
 
  
