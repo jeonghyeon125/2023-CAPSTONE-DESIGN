@@ -1,3 +1,5 @@
+![썸네일](https://github.com/user-attachments/assets/da3688c5-5348-4ed5-afc2-1f01fd4e646c)
+
 # 2023-CAPSTON-DESIGN
 > Identification of Internet news reliability using TF-IDF and RoBERTa models <br>
 > TF-IDF와 RoBERTa 모델을 이용한 인터넷 뉴스 신뢰도 판별 <br>
