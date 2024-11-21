@@ -34,13 +34,33 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   
-<br>
+<br><br>
 
 ## 🗂️ Project Planning
 
-### 1. Project Proposal
+### 1. Project Outline
+<br>
 
-[프로젝트 기획서]
+![image](https://github.com/user-attachments/assets/e04ab22b-3d8c-45c9-a138-568da7d104bd)
+
+<br>
+
+한국언론진흥재단의 소셜미디어 이용자 조사에 따르면 허위 정보 접촉 여부가 77.2%에 달했으며, <br>
+허위 정보가 주로 확산되는 미디어 YouTube를 1순위로 뽑혔다.
+
+또한, 가짜뉴스를 통한 피해 기사들을 많이 발견할 수 있었으며, 이에 대해 우리는 사용자들에게 인터넷 뉴스 신뢰도 판별에 도움을 주고자 하는 Hongik TruthGuard를 구축하고자 하였다.
+이 프로젝트의 목표는 아래와 같다.
+
+<h3>- Quantitative Goal 정량적 목표</h3>
+1. 키워드 기반 웹 크롤링 시 사용자들에게 70% 이상의 관련된 기사 제공 <br>
+2. 데이터 전처리 과정에서 나타나는 새로운 단어를 사용자 사전에 추가하여 학습함으로써 전처리 과정에서의 텍스트 처리 정확도 향상
+
+<br>
+
+<h3>- Qualitative Goal 정성적 목표</h3>
+1. 동영상 데이터의 텍스트 데이터 추출을 통한 판별 범위 확장 <br>
+2. 사용자들의 올바른 정보 습득 <br>
+3. 뉴스 제작자들의 윤리적인 책임 의식 강화 기여
 
 <br>
 
